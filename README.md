@@ -1,5 +1,7 @@
 # Simple React Pagination
 
+![1](https://user-images.githubusercontent.com/67144252/146631470-1bf9028d-e5aa-471c-afd6-80af3f1cadaa.png)
+
 ## Instructions
 
 First clone this repository.
@@ -21,6 +23,5 @@ Run the app
 ```bash
 npm start
 ```
----
 
-![1](https://user-images.githubusercontent.com/67144252/146631470-1bf9028d-e5aa-471c-afd6-80af3f1cadaa.png)
+
