@@ -6,9 +6,11 @@ const Posts = ({ posts, loading }) => {
   }
 
   return (
-    <ul class="list-group">
-      {posts.map((p) => (
-        <li class="list-group-item">{p.title}</li>
+    <ul className="list-group">
+      {posts.map((p, i) => (
+        <li className="list-group-item" key={i}>
+          {p.title}
+        </li>
       ))}
     </ul>
   );
